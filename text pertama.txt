@@ -1,3 +1,6 @@
 Bismilahirahmannirahim
-  i want to be programmer and i will study more than before
- 
+  i want to be programmer and i will study more than before.
+1.Saya Akan belajar laravel 4x dalam seminggu
+2.Saya akan belajar Apa itu REST API
+3.Saya Akan belajar apa itu GIT dan GITHUB
+4.Saya akan belajar Oracle
